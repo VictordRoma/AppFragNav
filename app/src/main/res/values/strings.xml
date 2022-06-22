@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_first">Retorne</string>
+    <string name="fragment_second">Pág 2</string>
+    <string name="fragment_third">Pág 3</string>
+    <string name="fragment_fourth">Pág 4</string>
+    <string name="fragment_fifth">Pág 5</string>
+    <string name="fragment_sixth">Pág 6</string>
+</resources>
